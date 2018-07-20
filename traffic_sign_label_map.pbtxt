@@ -1,0 +1,59 @@
+item {
+  id: 1
+  name: 'SL_10'
+}
+
+item {
+  id: 2
+  name: 'SL_20'
+}
+
+item {
+  id: 3
+  name: 'SL_25'
+}
+
+item {
+  id: 4
+  name: 'SL_30'
+}
+
+item {
+  id: 5
+  name: 'SL_35'
+}
+
+item {
+  id: 6
+  name: 'SL_40'
+}
+
+item {
+  id: 7
+  name: 'SL_45'
+}
+
+item {
+  id: 8
+  name: 'YD'
+}
+
+item {
+  id: 9
+  name: 'Stop'
+}
+
+item {
+  id: 10
+  name: 'PCS'
+}
+
+item {
+  id: 11
+  name: 'NPS'
+}
+
+item {
+  id: 12
+  name: 'SA'
+}
